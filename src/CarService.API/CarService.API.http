@@ -1,0 +1,6 @@
+@CarService.API_HostAddress = http://localhost:5018
+
+GET {{CarService.API_HostAddress}}/api/vehicles
+Accept: application/json
+
+###
